@@ -1,2 +1,1 @@
-## Laravel Daily Practices
-<p style="color: lightslategray">Working with new technology, mostly related to Laravel & JS</p>
+## Blogging Website With Laravel 10 & Vue3
